@@ -101,7 +101,7 @@ Fact table : It will have the data about the transactions
 
 - In this project, we have followed Snowflake data modeling method.
 
-https://github.com/Sumitraadhya/Business-Insights-360-Atliq-Hardware/blob/main/Data_model.png
+
 
 ### Dashboard designing
 
